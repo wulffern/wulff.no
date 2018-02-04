@@ -4,14 +4,14 @@ title: Presentations
 
 I love giving presentations on electronics. I get a big kick after I
 give a presentation, preferably to as many people as possible. So far,
-the max have been 360 people over Skype for Busniess.
+the max have been 360 people over Skype for Business.
 
-Below you'll find the presenations I've had that are available for
+Below you'll find the presentations I've had that are available for
 public release. These days most of the slide-sets I make are only for
-internal use at Nordic Semiconductor, but I regurarly (usually once a
+internal use at Nordic Semiconductor, but I regularly (usually once a
 year) get asked to do
-presenations at NTNU.
-
+presentations at NTNU.
+ 
 
 | Date | Title  | Comments |
 | ---- | -----  | -------  |
