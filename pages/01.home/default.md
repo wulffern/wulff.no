@@ -29,4 +29,4 @@ title: Home
 
 
 ##Links
-- [The old www.wulff.no site](https://62327-www.web.tornado-node.net)
+- [The old www.wulff.no site](https://62327-www.web.tornado-node.net/carsten/doku.php)
