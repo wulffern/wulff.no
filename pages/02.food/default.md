@@ -1,2 +1,6 @@
+---
+content:
+    items: '@self.children'
+---
 
-#testing
+
