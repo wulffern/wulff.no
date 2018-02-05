@@ -10,11 +10,11 @@ title: Home
 - Love talking in front of a crowd, especially on electronics
 - Love electronics, especially anything to do with analog integrated
   circuit design or radio design
-- Loves the scientific method, and anything that can be proven to be
+- Love the scientific method, and anything that can be proven to be
   true
-- Likes running, occasionally
-- Don't mind religious people, people have the right to believe
-  whatever they want as long as it does not adversely affect others
+- Like running, occasionally
+- Don't mind religious people. People have the right to believe
+  whatever they want for the things that can't be proven. As long as it does not adversely affect others
 - Not a fan of nonsense, for example
   homeopathy, anti-vax, flat earth, ghosts, alternative medicine
 
