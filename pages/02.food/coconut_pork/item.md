@@ -1,5 +1,14 @@
+---
+title: Coconut Pork
+taxonomy:
+	tag: [pork, coconut]
+date: 02/04/2018
+---
 
-# Coconut Pork
+
+>This was amazing, the type of thing I want to eat every day. The
+>coconut solidifed in clumps a bit during the sous-vide, but the taste
+>was really good.
 
 - Pork, 250 gram per person (Røkt Svinekam)
 - Chinese garlic
