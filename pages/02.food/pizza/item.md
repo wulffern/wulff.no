@@ -46,8 +46,8 @@ date: 02/12/2018
 ## Step 3 ( > 30 minutes before):
 - Flatten the dough and divide into 4 equal pieces
 - Flatten the pieces into pizzas. 
-- Turn on oven at 250 C
 - Proof (heve) the pizzas for at least 30 ish minutes in a warm place
+- Turn on oven at 250 C
 
 ## Assembly :
 - Put pizzas in oven without topping, and bake for 8 minutes. This
