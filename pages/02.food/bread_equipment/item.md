@@ -48,6 +48,14 @@ You can proof the dough in a
 [proofing basket](https://www.clasohlson.com/uk/Bread-Proving-Basket/44-1854). Leave
 it for a couple hours. Make sure to keep it covered.
 
+It does matter how long you proof it for though. If proofing time is too long,
+then it won't turn out right. The two loafs below are made from the
+exact same dough. The only difference is proofing for just 1 hour (left
+loaf) versus proofing for 3 hours (right
+loaf). 
+
+![Proofing time](proofing.png)
+
 ## Step 4, prepare for baking
 
 This is the most tricky part. Home ovens are not good for
@@ -101,5 +109,7 @@ Let the loaf cool for a few hours before you cut it. Freezing works
 well if you won't consume it within a day.
 
 
-
+## Step 8, Result
+The result was pretty good.
+![result](result.png)
 
