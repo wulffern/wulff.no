@@ -7,6 +7,12 @@ date: 04/17/2018
 
 > The ingredients for bread are few, but getting the loaf it right is difficult
 
+
+Disclamer: I have not figured out all this myself. I've spent hours
+reading a really good "book". I highly recommend
+[Modernist Bread](http://modernistcuisine.com/books/modernist-bread/) to anyone that are really
+serious about baking bread.
+
 ## Step 1, mixing the dough
 
 ![Ingredients](ingredients.png)
