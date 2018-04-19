@@ -11,6 +11,15 @@ date: 04/17/2018
 
 ![Ingredients](ingredients.png)
 
+| Amount | Ingredient |
+| ------ | ---------- |
+| 565 g | Flour |
+| 11 g | Salt|
+| 1.5 g | Yeast |
+| 425 g | Water |
+| 10 g  | Malt extract |
+
+
 This is easy, you just:
 - Combine flour, yeast, salt, and maybe some
 molasses (gives an extra darkness to the bread). 
@@ -38,7 +47,7 @@ hours is best, but I often leave it for 20 hours due to convenience.
 After bulk fermentation you can store it in the fridge for days. That
 way it's easier to bake every day.
 
-## Step 3, Proofing
+## Step 3, proofing
 Take it out of the fridge. You need to degas the dough to get it
 going again. The
 [four way fold](https://www.bakepedia.com/tipsandtricks/the-four-fold-technique-the-key-to-great-homemade-dough/)
@@ -88,12 +97,12 @@ makes a good baking solution.
 ![Baking solution](cooking1.png)
 
 
-## Step 5, Scoring
+## Step 5, scoring
 You need to
 [score the dough](http://www.thefreshloaf.com/node/31887/scoring-bread-updated-tutorial),
 this makes expansion zones so the dough does not burst when it starts to rise.
 
-## Step 6, Baking
+## Step 6, baking
 - Place the lid on top of the Vardagen, put the bottom of the Senior
   on top.
 - Heat the baking vessel for an hour in the oven at 245 degrees Celsius
@@ -104,12 +113,12 @@ this makes expansion zones so the dough does not burst when it starts to rise.
 - Take the it out of the oven when it's done
 ![Done](cooking.png)
 
-## Step 7, Cooling
+## Step 7, cooling
 Let the loaf cool for a few hours before you cut it. Freezing works
 well if you won't consume it within a day.
 
 
-## Step 8, Result
+## Step 8, result
 The result was pretty good.
 ![result](result.png)
 

@@ -7,6 +7,9 @@ date: 02/20/2018
 
 > It's quite fantastic what can be made from flour, yeast, water and salt
 
+FYI: this has been updated to improve the process at
+[bread equipment](../bread_equipment)
+
 ## Step 1 (day before):
 
 | Amount | Ingredient |
