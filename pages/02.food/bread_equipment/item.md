@@ -66,9 +66,9 @@ A good way to hack the home oven is to enclose the dough in something.
 
 I searched, but I could not find anything that fit. Since I'm
 engineer, I usually think I can do anything. I found some steel
-leftovers in my cellar and thought "Maybe I can solder a box?".
+leftovers in my cellar and thought "Maybe I can weld a box?".
 
-After a weekend of soldering I had it ready.
+After a weekend of welding I had it ready.
 
 ![Welding fail](welding_fail.png)
 
