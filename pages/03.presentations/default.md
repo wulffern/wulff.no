@@ -15,6 +15,7 @@ presentations at NTNU.
 
 | Date | Title  | Comments |
 | ---- | -----  | -------  |
+| 2017-08-29 | [Making Integrated Circuits](2018_08_29_making_ic_and_wireless_public_ntnu.pdf) | At NTNU to 1 year  EL-SYS|
 | 2017-08-30 | [Making Integrated Circuits](2017_08_30_Making_integrated_circuits.pdf) | At NTNU to 1 year  electronic students|
 | 2016-09-07 | [Why I work with Electronics](2016-09-07_Why.pdf) | At NTNU to 1 year electronic students|
 | 2016-06-14 | [Compiling analog-to-digital converters in multiple nanoscale technologies](2016-06-14_NanoNetwork.pdf)| Nano Network 2016 |
