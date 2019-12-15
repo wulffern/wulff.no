@@ -12,7 +12,8 @@ title: Home
   circuit design or radio design
 - Love the scientific method, and anything that can be proven to be
   true
-- Like running, occasionally
+- Love running, quite often
+- Love bouldering, when I'm not running
 - Don't mind religious people. People have the right to believe
   whatever they want for the things that can't be proven. As long as it does not adversely affect others
 - Not a fan of nonsense, for example
