@@ -32,4 +32,5 @@ down with a book to read about programming, and expect that you will learn progr
 | `find ./ -name "*.cdslck" -exec rm {} \;`| Removes cds lock files|
 | `ssh-keygen -t rsa` | Make a public RSA key|
 | `cat ~/.ssh/id_rsa.pub | ssh my_host " cat > .ssh/authorized_keys"`| Copies your public RSA key to the authorized keys, so you won't have to type the password anymore|
+| alias ssh-x='ssh -c aes128-cbc -YC -o "ForwardX11Timeout 4W" '| Fast ssh when using X|
 
