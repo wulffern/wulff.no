@@ -11,7 +11,8 @@ This is some advice, use it, or ignore it, who cares.
 
 # Computers
 - Get a mac, time capsule,  time machine, and offsite backup. That ensures you'll never loose data.
-- Learn Emacs
+- Learn Emacs [](https://github.com/hlissner/doom-emacs) is cool, but be sure to
+  disable evil-mode.
 
 # Programming
 Find a problem that you really want to solve, and learn a programming language to solve it. There is absolutely no point in saying "I want to learn programming", then sitting
