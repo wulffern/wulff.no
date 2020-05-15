@@ -30,4 +30,6 @@ title: Home
 
 
 ##Links
-- [The old www.wulff.no site](https://62327-www.web.tornado-node.net/carsten/doku.php)
+- [The old www.wulff.no
+  site](https://62327-www.web.tornado-node.net/carsten/doku.php)
+- [CV](https://wulffern.github.io/markdown-cv/)
