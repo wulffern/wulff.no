@@ -84,9 +84,12 @@ Wulff, C; ["An ADC primer"](tb_adcprimer.pdf), 2008, stuff about ADCs that did n
 into my PhD thesis. This is a rough cut, so there may be some trains
 of thought that might be difficult to follow.
 
+Wulff, C; ["The Universal Design Project"](design.project.pdf), 2014
+
 <!--
 Wulff, C; ["Stuff to Ponder; hints and tips on analog circuit design, 2007
 -->
+
 
 Wulff, C; ["FE8113 High Speed Data Converters: A Summary"](fe8113.pdf), 2006.
 
