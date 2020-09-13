@@ -76,16 +76,15 @@ I started noticing, however, that if I binged on a Friday, I felt like crap on
 Saturday, so on 2017-01-26 I stopped eating candy, chocolate and
 chips. The effect was pretty immediate. Not only did it help on the
 weight, but I had more energy. Over the last years I've tried dropping
-different foods (bread, pasta, meat) to the point where now I'm
+different foods (bread, pasta, meat) to the point where at one point I was
 basically living on whole greens, nuts, eggs, sometimes fish. The
-funny thing, is that it's quite easy to maintain that diet, mostly because every
+funny thing, is that it was quite easy to maintain that diet, mostly because every
 time I try eating a pizza I feel like crap for a few days, basically
 like a hangover, which makes it easier to avoid things that seems bad
 for me, I simply don't want to eat them anymore.
 
-*Warning:* I'm not sure that the way I'm eating now is a good thing. It
-may be too restrictive. Let's see in a few years if I can keep it up.
-
+I lived on a that strict diet from 2019-11-14 to 2020-05-26, but it
+got too restrictive, and boring. These days I'm back to eating mosts things.
 
 ## Third how - Consistency
 The only way to make lasting changes to the weight, is to make lasting
@@ -102,7 +101,9 @@ down from max. 84 kg seems pretty far away still, but not impossible.
 
 Below you can see my weight over the last three years. The blue curve is
 an estimate of the weight without the seasonal variation (Christmas is
-really an enemy of weight control).
+really an enemy of weight control). Also, on 2020-01-10 I removed nicotine
+intake (snus), which I believe is one of the reasons the weigt jumped a bit again. That, and
+corona of-course.
 
 ![Weight](weight.png)
 
