@@ -83,7 +83,7 @@ time I try eating a pizza I feel like crap for a few days, basically
 like a hangover, which makes it easier to avoid things that seems bad
 for me, I simply don't want to eat them anymore.
 
-I lived on a that strict diet from 2019-11-14 to 2020-05-26, but it
+I lived on that strict diet from 2019-11-14 to 2020-05-26, but it
 got too restrictive, and boring. These days I'm back to eating mosts things.
 
 ## Third how - Consistency
