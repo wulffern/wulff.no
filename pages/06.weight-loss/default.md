@@ -102,7 +102,7 @@ down from max. 84 kg seems pretty far away still, but not impossible.
 Below you can see my weight over the last three years. The blue curve is
 an estimate of the weight without the seasonal variation (Christmas is
 really an enemy of weight control). Also, on 2020-01-10 I removed nicotine
-intake (snus), which I believe is one of the reasons the weigt jumped a bit again. That, and
+intake (snus), which I believe is one of the reasons the weigth jumped a bit again. That, and
 corona of-course.
 
 ![Weight](weight.png)
