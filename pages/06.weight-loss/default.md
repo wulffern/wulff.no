@@ -84,7 +84,7 @@ like a hangover, which makes it easier to avoid things that seems bad
 for me, I simply don't want to eat them anymore.
 
 I lived on that strict diet from 2019-11-14 to 2020-05-26, but it
-got too restrictive, and boring. These days I'm back to eating mosts things.
+got too restrictive, and boring. These days I'm back to eating most things.
 
 ## Third how - Consistency
 The only way to make lasting changes to the weight, is to make lasting
@@ -104,6 +104,12 @@ an estimate of the weight without the seasonal variation (Christmas is
 really an enemy of weight control). Also, on 2020-01-10 I removed nicotine
 intake (snus), which I believe is one of the reasons the weight jumped a bit again. That, and
 corona of-course.
+
+Lately I've been wondering whether the time of day matters for weight loss.
+Based on the data, there does seem to be a correlation between time of day
+(Morning >= 12) and the weight loss. Since the beginning of 2020 I've moved more of my exercise to
+the afternoon. Of-course, there are too many variables to reliably say there is
+a causation.
 
 ![Weight](weight.png)
 
@@ -132,7 +138,7 @@ really helped me out.
 
 
 ## PS2: Programming
-I love programming, everytime I go on holiday, then after a few days
+I love programming, every time I go on holiday, then after a few days
 rest, I end up programming something. In my
 [health](https://github.com/wulffern/health/tree/master/fitbit) repo
 you can find the code  to parse the
