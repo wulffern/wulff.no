@@ -12,8 +12,8 @@ title: Home
   circuit design or radio design
 - Love the scientific method, and anything that can be proven to be
   true
-- Love ski mountaineering
-- Love trail running
+- Love [ski mountaineering](ski.png)
+- Love [trail running](trail.png)
 - Love bouldering, when I'm not running or skiing
 - Don't mind religious people. People have the right to believe
   whatever they want for the things that can't be proven. As long as it does not adversely affect others
