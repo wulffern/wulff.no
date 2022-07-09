@@ -26,9 +26,6 @@ title: Home
 
 ##Mission in life
 - Try to ensure that my kids grow up into happy adults
-- Use my skills to try to do something about cardiovascular disease
-- Use my skills to try to do something about global warming
-
 
 ##Links
 - [The old www.wulff.no
