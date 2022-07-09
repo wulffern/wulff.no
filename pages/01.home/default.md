@@ -25,7 +25,7 @@ title: Home
   ["Til Ungdommen"](https://en.wikipedia.org/wiki/Til_Ungdommen)
 
 ##Mission in life
-- Try to ensure that my kids grow up into happy adults
+- Try to ensure that my kids grow up into robust, content adults
 
 ##Links
 - [The old www.wulff.no
