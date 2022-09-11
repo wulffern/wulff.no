@@ -48,12 +48,6 @@ A few tips if your just starting out exercising:
   time I reduced intensity. I also discovered that I could, after
   about a few years, run at 65 % intensity (around 124 bpm), and then I
   could go for a long time.
-- I would strongly recommend [PAI Health](https://www.paihealth.com) , it's a
-  really good tool for measuring if you're doing enough to keep
-  healthy. Initially it was a struggle to get 100 PAI. These days, if I'm
-  training really hard it climbs up to 250 PAI, but at that intensity
-  I can only keep it going for a few weeks. Normally it hovers around
-  150 to 200 PAI (sometimes below 100, if I'm having a bad week).
 - A good thing to know, if you're in really bad shape, then every time
   you exercise will be extremely hard. Even running, in the
   beginning, was impossible for me without the heart rate climbing past 85 %
@@ -77,39 +71,48 @@ Saturday, so on 2017-01-26 I stopped eating candy, chocolate and
 chips. The effect was pretty immediate. Not only did it help on the
 weight, but I had more energy. Over the last years I've tried dropping
 different foods (bread, pasta, meat) to the point where at one point I was
-basically living on whole greens, nuts, eggs, sometimes fish. The
-funny thing, is that it was quite easy to maintain that diet, mostly because every
-time I try eating a pizza I feel like crap for a few days, basically
-like a hangover, which makes it easier to avoid things that seems bad
-for me, I simply don't want to eat them anymore.
+basically living on whole greens, nuts, eggs, sometimes fish. 
 
 I lived on that strict diet from 2019-11-14 to 2020-05-26, but it
-got too restrictive, and boring. These days I'm back to eating most things.
+got too restrictive, and boring. These days I'm back to eating most things. I
+also started eating candy again, which shows on the fat weight.
 
 ## Third how - Consistency
 The only way to make lasting changes to the weight, is to make lasting
 changes to the calorie intake, and calorie expenditure. So don't expect
 to change your weight quickly, you have to commit for the long
-run. I've had to get comfortable with that I probably never again (as
-in ever), can binge on candy, chocolate and chips, but that's OK. I
-don't really want to anymore.
+run. 
+
 
 ## Results
 I'm not done yet, but it would be fun to see if I can actually reach a
 normal BMI. For me that would be 84 kg, which would be 38.5 kg
 down from max. 84 kg seems pretty far away still, but not impossible.
 
-Below you can see my weight over the last three years. The blue curve is
-an estimate of the weight without the seasonal variation (Christmas is
-really an enemy of weight control). Also, on 2020-01-10 I removed nicotine
-intake (snus), which I believe is one of the reasons the weight jumped a bit again. That, and
-corona of-course.
+Below you can see my fat weight over the last six years. The blue curve is
+an estimate of the fat weight without the seasonal variation (Christmas is
+really an enemy of weight control). 
 
-Lately I've been wondering whether the time of day matters for weight loss.
-Based on the data, there does seem to be a correlation between time of day
-(Morning >= 12) and the weight loss. Since the beginning of 2020 I've moved more of my exercise to
-the afternoon. Of-course, there are too many variables to reliably say there is
-a causation.
+Over the last two years the fat weight has increased again, likely due to a
+combination of corona, injury, and a period of high stress, which, I believe has
+reduced my ability to stick to a reduced calorie intake.
+In July 2021 I took a ground fall while top-rope soloing, which by 2022-09 still is
+not fully healed, so long runs are a challenge. In August 2021 I started
+teaching at univerisity and was working most evenings and most weekends. I've
+had high stress periods before, but they affected my emotional control. In 2021 I
+experienced for the first time that the increased stress affected my ability to
+consume food. I had to drop gluten, everything with milk, and could not touch
+alcohol. I've been without high stress since June 2022, and am now able to
+consume milk and alcohol without the body falling apart, but I do still have to
+ensure that I get enough rest, and the energy levels decline quickly through a
+work week. 
+
+It's ironic that I preach to my employees that "It's important to find a work
+life balance, because that's when the brain works best", and I'm not the best to
+follow my own preaching. 
+
+Lately I've been focusing on rest, exercise and enough sleep, Let's see if the fat weight drops again. 
+
 
 ![Weight](weight.png)
 
